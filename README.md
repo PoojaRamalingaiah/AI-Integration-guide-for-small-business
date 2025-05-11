@@ -3,6 +3,7 @@ This project explains the importance of having an AI Assistant and provides a pr
 It is designed for solo entrepreneurs, lean teams, and busy professionals who want to save time by automating repetitive tasks — no technical background needed!
 
 🚀 What's Included
+
 📄 A blog-style overview of the project
 
 🛠 A step-by-step tutorial to set up a simple AI-powered workflow
@@ -12,6 +13,7 @@ It is designed for solo entrepreneurs, lean teams, and busy professionals who wa
 💬 A FAQ section with real-world use cases
 
 🔔 A call-to-action to start experimenting with AI tools
+
 
 💡 Why Every Small Business Needs an AI Assistant
 Running a small business doesn’t mean you have small workloads. You're juggling:

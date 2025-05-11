@@ -85,8 +85,7 @@ Try AI with other tasks (e.g. lead follow-up, content creation)
 Keep exploring — AI improves as you use it
 
 💼 Want Help Setting Up Custom AI?
-[Request Custom AI Setup Help]
-(Freelance services available for technical writing, automation, and AI integration)
+[ Request Custom AI Setup Help] (Freelance services available for technical writing, automation, and AI integration)
 
 🧠 Final Note
 AI is not the future — it's the present.

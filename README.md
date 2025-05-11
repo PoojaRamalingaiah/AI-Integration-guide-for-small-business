@@ -15,6 +15,7 @@ It is designed for solo entrepreneurs, lean teams, and busy professionals who wa
 🔔 A call-to-action to start experimenting with AI tools
 
 
+
 💡 Why Every Small Business Needs an AI Assistant
 Running a small business doesn’t mean you have small workloads. You're juggling:
 
